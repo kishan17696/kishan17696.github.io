@@ -48,5 +48,5 @@ CP_Interstitial
 ca-app-pub-7751178642986693/6187745883
 CP_Rewarded
 ca-app-pub-7751178642986693/3385488571
-facebook=0
-admob=1
+facebook=1
+admob=0
