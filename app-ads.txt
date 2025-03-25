@@ -1,3 +1,4 @@
+google.com, pub-7751178642986693, DIRECT, f08c47fec0942fa0
 exchange.admazing.co, AM3, RESELLER
 onetag.com, 7d9af0b85b5070e, RESELLER
 spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
